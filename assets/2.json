@@ -1,0 +1,19 @@
+{
+    "name": "Vegeta",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DvarzQF5Pd6jyeFoPdbJ78uXdydGS8rbeV35ZcY4JsAK",
+          "share": 100
+        }
+      ]
+    }
+  }

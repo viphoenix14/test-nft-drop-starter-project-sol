@@ -1,0 +1,19 @@
+{
+    "name": "Gohan",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DvarzQF5Pd6jyeFoPdbJ78uXdydGS8rbeV35ZcY4JsAK",
+          "share": 100
+        }
+      ]
+    }
+  }
